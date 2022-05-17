@@ -2036,11 +2036,12 @@ input, select, textarea {
 		}
 
 /* Box */
-
+	
 	.box {
 		border: solid 2px;
 		margin-bottom: 2rem;
 		padding: 1.5rem;
+		display: flex;
 	}
 
 		.box > :last-child,
