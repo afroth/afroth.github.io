@@ -2042,6 +2042,8 @@ input, select, textarea {
 		margin-bottom: 2rem;
 		padding: 1.5rem;
 		display: flex;
+		flex-wrap: wrap;
+		
 	}
 
 		.box > :last-child,
