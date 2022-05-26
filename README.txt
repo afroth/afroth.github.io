@@ -1,8 +1,9 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-
+I simple used this template and adjusted it as needed.
 
 Credits:
+
+Massively by HTML5 UP
+html5up.net | @ajlkn
 
 	Demo Images:
 		Unsplash (unsplash.com)
