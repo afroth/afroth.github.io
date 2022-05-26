@@ -1,5 +1,3 @@
-I simple used this template and adjusted it as needed.
-
 Credits:
 
 Massively by HTML5 UP
